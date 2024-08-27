@@ -1,1 +1,1 @@
-# my-machine-learning
+#Understanding Machine Learning algorithms.
